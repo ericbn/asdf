@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.11.2](https://github.com/asdf-vm/asdf/compare/v0.11.1...v0.11.2) (2023-01-29)
+
+
+### Bug Fixes
+
+* enforce & use consistent function definitions ([#1464](https://github.com/asdf-vm/asdf/issues/1464)) ([e0fd7a7](https://github.com/asdf-vm/asdf/commit/e0fd7a7be8bbbbf0f3cb6dc38cea3b62963eb0c9))
+* Remove `==` inside `[` ([#1421](https://github.com/asdf-vm/asdf/issues/1421)) ([d81b81f](https://github.com/asdf-vm/asdf/commit/d81b81f9de2dc5961624464df04cef7cafae588c))
+
 ## [0.11.1](https://github.com/asdf-vm/asdf/compare/v0.11.0...v0.11.1) (2023-01-13)
 
 
